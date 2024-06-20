@@ -9,17 +9,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# :man_technologist: About Me :
-
-I am a Learning Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm form Bangladesh.
-
-- :telescope: I am a full time Gamer and now I'm moving into Web Development.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems and read tech articles.
-
-
 # :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -30,16 +19,11 @@ I am a Learning Web Development <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 👉 Join the community
-<p>
-  <a href="https://discord.gg/pnmXg4Cwtt"><img src="https://discordapp.com/api/guilds/979068299675594782/widget.png?style=banner2" alt="Discord server"></a>
-</p>
-
 # :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=galibmahin&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danboseven&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galibmahin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danboseven&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DanboSeven/DanboSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
