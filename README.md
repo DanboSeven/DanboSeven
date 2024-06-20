@@ -1,6 +1,6 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danboseven&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danboseven&theme=light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danboseven&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danboseven&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 </center>
 <!--
 **DanboSeven/DanboSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
