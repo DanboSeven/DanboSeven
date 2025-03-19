@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danboseven&theme=light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![DanboSeven's Stats](https://github-readme-stats.vercel.app/api?username=DanboSeven&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danboseven&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 </center>
